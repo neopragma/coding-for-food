@@ -2,7 +2,7 @@
 
 ## Prerequisites
 
-Come to the session with a laptop (or other type of device suitable for software development) configured to support programming in the language of your choice, using the tools of your choice. Be (psychologically) prepared to allow others to use the machine, because the teams will move from one project to another in the course of the session.
+Come to the session with a laptop (or other type of device suitable for software development) configured to support programming in the language of your choice, using the tools of your choice. Be (psychologically) prepared to allow others to use the machine, because the teams will move from one project to another in the course of the session. You will need an Internet connection.
 
 ## Round 1
 
